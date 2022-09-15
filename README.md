@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+# React with TypeScript 
 
-To use this template click `Use this template`
+[DEMO](https://pavlomarkov.github.io/dynamic_list_of_posts/)
 
-### Available Scripts
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
